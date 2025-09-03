@@ -7,7 +7,6 @@ ages or genders in a population.**
 # Tools and Libraries used
 -  Jupyter notebook
 -  Pandas
--  Numpy
 -  Matplotlip & Seaborn for visualization
 
 # Conclusion
